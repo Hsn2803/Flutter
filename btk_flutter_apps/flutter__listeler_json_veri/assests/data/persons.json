@@ -1,0 +1,41 @@
+{
+    "persons": [
+        {
+            "id": 1,
+            "isim": "Hasan Hüseyin ALTAN",
+            "erkekMi": true,
+            "sevdigiRenkler": [
+                "Sarı",
+                "Kırmızı"
+            ],
+            "adres": [
+                {
+                    "il": "Batman",
+                    "ilçe": "Merkez",
+                    "tur": "ev"
+                },
+                {
+                    "il": "Elazığ",
+                    "ilçe": "Merkez",
+                    "tur": "yurt"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "isim": "Şevval ALTAN",
+            "erkekMi": false,
+            "sevdigiRenkler": [
+                "Sarı",
+                "Kırmızı"
+            ],
+            "adres": [
+                {
+                    "il": "Batman",
+                    "ilçe": "Merkez",
+                    "tur": "ev"
+                }
+            ]
+        }
+    ]
+}
